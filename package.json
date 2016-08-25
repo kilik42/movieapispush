@@ -1,0 +1,24 @@
+{
+  "name": "movieapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilik42/nodeandapis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilik42/nodeandapis/issues"
+  },
+  "homepage": "https://github.com/kilik42/nodeandapis#readme",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
